@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">weatherApptutorial</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="todo">TODO</string>
+    <string name="weathericon">weathericon</string>
+    <string name="weather">WEATHER</string>
+    <string name="fetching">Fetching...</string>
+    <string name="Todo">TODO</string>
+    <string name="loading">----------------------------------------------</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="_0_c">0°C</string>
+    <string name="load">-----------------------------</string>
+    <string name="enterlocation">ENTER LOCATION</string>
+    <string name="l">---------------------------------------------</string>
+    <string name="n">---------------------------------------------</string>
+</resources>
